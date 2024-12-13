@@ -27,6 +27,8 @@
   - **Assigned IP Address**: 168.90.0.2 (IP assigned by DHCP)
 - **PC 2**:
   - **Assigned IP Address**: 168.90.0.5 (IP assigned by DHCP)
+- **PC 3**:
+  - **Assigned IP Address**: 168.90.0.6 (IP assigned by DHCP)
 - **Laptop**:
   - **Assigned IP Address**: 168.90.0.3 (IP assigned by DHCP)
 - **Server**:
@@ -34,11 +36,11 @@
 
 #### Devices on **Switch 2** (Network 210.3.14.0):
 
-- **PC 3**:
+- **PC 4**:
   - **Assigned IP Address**: 210.3.14.3 (IP assigned by DHCP)
+- **PC 5**:
+  - **Assigned IP Address**: 210.3.14.5 (IP assigned by DHCP)
 - **Server 2**:
-
   - **Assigned IP Address**: 210.3.14.2 (IP assigned by DHCP)
-
 - **Server 3**:
   - **Assigned IP Address**: 210.3.14.4 (IP assigned by DHCP)
